@@ -1,0 +1,15 @@
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\bin\Debug\net7.0\MonthlySalary.exe
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\bin\Debug\net7.0\MonthlySalary.deps.json
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\bin\Debug\net7.0\MonthlySalary.runtimeconfig.json
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\bin\Debug\net7.0\MonthlySalary.dll
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\bin\Debug\net7.0\MonthlySalary.pdb
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\MonthlySalary.csproj.AssemblyReference.cache
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\MonthlySalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\MonthlySalary.AssemblyInfoInputs.cache
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\MonthlySalary.AssemblyInfo.cs
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\MonthlySalary.csproj.CoreCompileInputs.cache
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\MonthlySalary.dll
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\refint\MonthlySalary.dll
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\MonthlySalary.pdb
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\MonthlySalary.genruntimeconfig.cache
+C:\Users\waheb\Documents\Learning\C#\MonthllySalarySlip\MonthlySalary\obj\Debug\net7.0\ref\MonthlySalary.dll
